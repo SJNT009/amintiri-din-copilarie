@@ -1,0 +1,36 @@
+.gg{
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Radio Canada', sans-serif;
+
+}
+.body{
+    background-size: 100%;
+
+}
+.nav{
+    display: flex;
+    font-family: 'Radio Canada', sans-serif;
+    flex-wrap: wrap;
+    align-items: center;
+}
+a:active, a:hover, a:visited, a:link{
+    color: brown;
+    text-decoration: none;
+}
+.text{
+    width: 1200px;
+    margin-left: 150px;
+    font-family: 'Radio Canada', sans-serif;
+    background-image: url(amogus.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.nav-item{
+    width: 100%;
+    text-align: center;
+}
+.nav-link{
+    font-family: 'Radio Canada', sans-serif;
+
+}
